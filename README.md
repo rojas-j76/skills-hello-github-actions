@@ -1,4 +1,4 @@
-<header>
+😄<header>
 
 # Hello GitHub Actions :D
 
